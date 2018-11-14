@@ -1,6 +1,6 @@
 # is-it-too-smoky-for-class
 UC Davis had its first class cancellation in awhile due to wildfire smoke conditions. How should the campus respond next time?
-
+![campus cancellation](https://github.com/kylezoa/is-it-too-smoky-for-class/blob/master/memes/campusannouncement.JPG)
 ![smokey-the-bear-meme](https://i.imgur.com/wfRj0FI.jpg)
 
 Data sources:
